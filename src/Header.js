@@ -19,14 +19,14 @@ function Header() {
         />
       </div>
       <div className="header__input">
-        <input type="text" alt="" />
-        <SearchIcon />
+        <input placeholder="Search"  type="text" alt="" />
+        <SearchIcon className="header__inputButton" />
       </div>
 
       <div className="header__icons">
-        <VideoCallSharpIcon />
-        <AppsSharpIcon />
-        <NotificationsSharpIcon />
+        <VideoCallSharpIcon  className="header__icon" />
+        <AppsSharpIcon className="header__icon" />
+        <NotificationsSharpIcon  className="header__icon" />
         <Avatar
           alt="Muema"
           src="https://cdn1.iconfinder.com/data/icons/user-pictures/101/malecostume-512.png "

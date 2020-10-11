@@ -1,6 +1,8 @@
 import React from "react";
 import "./App.css";
 import Header from "./Header";
+import Sidebar from "./Sidebar";
+
 
 function App() {
   return (
@@ -10,10 +12,15 @@ function App() {
 
       {/*  Header */}
       <Header/>
+      <div className="app__page" >
 
       {/* Sidebar */}
+      <Sidebar/>
 
-      {/* Recommended Videos */}
+{/* Recommended Videos */}
+
+      </div>
+
 
     </div>
   );

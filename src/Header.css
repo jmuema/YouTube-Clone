@@ -35,3 +35,7 @@
 .header__icon {
     margin-right: 8px;
 }
+
+.header__left > .header__logoKe {
+    margin: 0 0 0 2px;
+}

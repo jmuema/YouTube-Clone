@@ -33,6 +33,47 @@ function SearchPage() {
             image="https://i.ytimg.com/vi/3RdHWtzgZiI/maxresdefault.jpg "
             
             />
+                 <VideoRow
+            views="2.5M"
+            subs="900K"
+            description="Generate visually rich links from the URL of a webpage. In this tutorial, you’ll transform Open Graph metadata into image thumbnail previews for an iOS app."
+            timestamp="50 Seconds ago"
+            channel="Joseph Muema"
+            title="GET RICH QUICK WITHIN A 2 WEEK"
+            image="https://i.ytimg.com/vi/NLG9tmgvGY8/maxresdefault.jpg"
+            
+            />
+                         <VideoRow
+            views="2.5M"
+            subs="900K"
+            description="Generate visually rich links from the URL of a webpage. In this tutorial, you’ll transform Open Graph metadata into image thumbnail previews for an iOS app."
+            timestamp="50 Seconds ago"
+            channel="Joseph Muema"
+            title="GET RICH QUICK WITHIN A WEEK"
+            image="https://i.pinimg.com/originals/77/30/7d/77307d8d803af259dc6e5994405160e6.jpg"
+            
+            />
+                         <VideoRow
+            views="2.5M"
+            subs="900K"
+            description="Generate visually rich links from the URL of a webpage. In this tutorial, you’ll transform Open Graph metadata into image thumbnail previews for an iOS app."
+            timestamp="50 Seconds ago"
+            channel="Joseph Muema"
+            title="GET RICH QUICK WITHIN A WEEK"
+            image="https://i.ytimg.com/vi/NxmTEJSmEn8/maxresdefault.jpg"
+            
+            />
+                         <VideoRow
+            views="2.5M"
+            subs="900K"
+            description="Generate visually rich links from the URL of a webpage. In this tutorial, you’ll transform Open Graph metadata into image thumbnail previews for an iOS app."
+            timestamp="50 Seconds ago"
+            channel="Joseph Muema"
+            title="GET RICH QUICK WITHIN A WEEK"
+            image="https://i.ytimg.com/vi/td-coWlfs6E/maxresdefault.jpg"
+            
+            />
+
 
             
         </div>
